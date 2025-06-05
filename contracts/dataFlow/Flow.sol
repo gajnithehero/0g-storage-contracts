@@ -6,6 +6,7 @@ pragma solidity ^0.8.0;
 import "./FlowTreeLib.sol";
 import "../utils/DigestHistory.sol";
 import "../utils/ZgsSpec.sol";
+import "../utils/BlockHash.sol";
 import "../interfaces/IDigestHistory.sol";
 import "../interfaces/IMarket.sol";
 import "../interfaces/IReward.sol";
